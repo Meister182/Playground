@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Experimenting with the syntax and white spaces
+# Experimenting with the syntax and white spaces when declaring functions.
 # *personal favorite.
 function my_print_1(){
     echo "this is function 1."
